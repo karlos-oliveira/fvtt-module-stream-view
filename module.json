@@ -7,9 +7,13 @@
     {
       "name": "sPOiDar",
       "url": "https://github.com/sPOiDar"
+    },
+    {
+      "name": "karlos-oliveira",
+      "url": "https://github.com/karlos-oliveira"
     }
   ],
-  "version": "2.0.3",
+  "version": "2.0.4",
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "11",
   "compatibility": {
@@ -65,9 +69,9 @@
   "socket": true,
   "license": "LICENSE",
   "readme": "README.md",
-  "url": "https://github.com/sPOiDar/fvtt-module-stream-view",
-  "bugs": "https://github.com/sPOiDar/fvtt-module-stream-view/issues",
-  "changelog": "https://github.com/sPOiDar/fvtt-module-stream-view/blob/master/CHANGELOG.md",
-  "manifest": "https://github.com/sPOiDar/fvtt-module-stream-view/raw/master/module.json",
-  "download": "https://github.com/sPOiDar/fvtt-module-stream-view/releases/download/v2.0.3/stream-view-v2.0.3.zip"
+  "url": "https://github.com/karlos-oliveira/fvtt-module-stream-view",
+  "bugs": "https://github.com/karlos-oliveira/fvtt-module-stream-view/issues",
+  "changelog": "https://github.com/karlos-oliveira/fvtt-module-stream-view/blob/master/CHANGELOG.md",
+  "manifest": "https://github.com/karlos-oliveira/fvtt-module-stream-view/raw/master/module.json",
+  "download": "https://github.com/karlos-oliveira/fvtt-module-stream-view/archive/refs/tags/2.0.4.zip"
 }
